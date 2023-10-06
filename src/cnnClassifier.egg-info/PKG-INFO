@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/genbid007-ml/kideny_dl_mlflow_dvc
+Author: genbid007-ml
+Author-email: genbid007.ml@gmail.com
+Project-URL: Bug Tracker, https://github.com/genbid007-ml/kideny_dl_mlflow_dvc/issues
+
+# kideny_dl_mlflow_dvc
+It is a project to detect Kideney Deases using Tf 2.0 with MLFlow and DVC with Docker
